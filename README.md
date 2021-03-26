@@ -28,7 +28,7 @@ food.remove('집')
 #append - 추가\
 food.append('집') #마지막 위치에 데이터 추가
 
-#pop - 제거\
+#pop - \
 food.pop(0)
 print(food)
 
